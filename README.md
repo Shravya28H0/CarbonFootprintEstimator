@@ -1,6 +1,6 @@
 **Carbon Footprint Estimator**
 
-A Spring Boot application that estimates the carbon footprint of dishes based on their name (text input) or an uploaded image filename (simplified).
+A Spring Boot application that estimates the carbon footprint of dishes based on their name (text input) or an uploaded image filename .
 
 This is a demo project showcasing how AI-powered estimation could be integrated into food sustainability apps.
 
